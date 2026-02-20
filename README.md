@@ -37,6 +37,7 @@ Each one-liner is the lesson, not the feature.
 - 👁️ **[look-awry-electron](https://github.com/aharbuz/look-awry-electron)** - Same app, attempt 3: Electron + Playwright -- 252 tests, best AI feedback loops, worst resource usage. The definitive tradeoff comparison
 - 🔧 **[claude-wrap](https://github.com/aharbuz/claude-wrap)** - 4 hooks that changed everything: context guard, session export, auto-wrap-up, plan verifier -- because Claude Code's biggest problem is session management
 - 📄 **[pdf-tool](https://github.com/aharbuz/pdf-tool)** - 3 commits, no tests, empty PROGRESS.md -- the control group that proved documentation discipline matters
+- 🎹 **[schmidi](https://github.com/aharbuz/schmidi)** - Stress-testing the [GSD](https://github.com/gsd-build/get-shit-done) framework on a complex build: feature-rich instrument engine + UI panel, to see if structured AI workflows scale to non-trivial projects
 - 🖱️ **[field-mouse](https://github.com/aharbuz/field-mouse)** - My first vibe-coded project. Next.js vector field. Zero process, pure vibes. The "before" picture
 
 ## The Look-Awry Meta-Lesson
