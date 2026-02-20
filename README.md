@@ -18,6 +18,13 @@
 ![Claude Code](https://img.shields.io/badge/-Claude_Code-000000?style=flat-square&logo=anthropic&logoColor=white)
 ![macOS](https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white)
 
+**I deploy:**
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+
+Small-scale data pipelines on AWS (LakeFormation, Firehose, Athena, Redshift, Glue).
+
 > 11 projects, 6,400 sessions, 29,000 messages -- all with Claude Code since Jan 2026. Every repo below was an experiment in how far AI-assisted development can go, and where it breaks.
 
 ## Projects
